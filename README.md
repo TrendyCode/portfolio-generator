@@ -5,9 +5,7 @@
 The Portfolio Generator creates an HTML portfolio page using Node.js. It uses the command line to capture user input and place it in a JavaScript function that provides the finished HTML page as output.
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
