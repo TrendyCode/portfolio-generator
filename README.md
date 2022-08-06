@@ -16,12 +16,9 @@ The Portfolio Generator creates an HTML portfolio page using Node.js. It uses th
 
 The program will run using the following tools:
 
-- Node.js 
-Visit the https://nodejs.org/en/ for download details.
-- NPM
-This will be included when you download Node.js
-- Inquirer
-Visit the NPM Package documentation at https://www.npmjs.com/package/inquirer for detailed instructions for adding this dependency.
+- Node.js: Visit the https://nodejs.org/en/ for download details.
+- NPM: This will be included when you download Node.js
+- Inquirer: Visit the NPM Package documentation at https://www.npmjs.com/package/inquirer for detailed instructions for adding this dependency.
 
 Fork the repository, access the terminal, then enter "Node App" on the terminal to run the program. Answer all the question prompts. Once the file is created, access the "dist" folder found inside the repository. Open the "index.html" file on your browser. You'll see your response rendered on the browser!
 
